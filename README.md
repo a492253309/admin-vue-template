@@ -1,10 +1,13 @@
 # vue-admin-template
 origin:https://github.com/PanJiaChen/vue-admin-template
+相关：
+https://github.com/PanJiaChen/vue-element-admin
+https://github.com/GeekQiaQia/vue3.0-template-admin
 
 English | [简体中文](./README-zh.md)
-vue2
-> A minimal vue admin template with Element UI & axios & iconfont & permission control & lint
 
+> A minimal vue admin template with Element UI & axios & iconfont & permission control & lint
+基于vue2
 **Live demo:** http://panjiachen.github.io/vue-admin-template
 
 
