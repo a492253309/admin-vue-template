@@ -1,7 +1,12 @@
 # vue-admin-template
 origin:https://github.com/PanJiaChen/vue-admin-template
-> 这是一个极简的 vue admin 管理后台。它只包含了 Element UI & axios & iconfont & permission control & lint，这些搭建后台必要的东西。 
+相关：
+https://github.com/PanJiaChen/vue-element-admin
+https://github.com/GeekQiaQia/vue3.0-template-admin
 
+
+> 这是一个极简的 vue admin 管理后台。它只包含了 Element UI & axios & iconfont & permission control & lint，这些搭建后台必要的东西。 
+基于vue2
 [线上地址](http://panjiachen.github.io/vue-admin-template)
 
 [国内访问](https://panjiachen.gitee.io/vue-admin-template)
